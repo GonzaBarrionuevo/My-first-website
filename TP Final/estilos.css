@@ -1,0 +1,117 @@
+header {
+    background-image: url("fondoo.jpg");
+    
+  }
+
+#logo {
+    float:center;
+    width: 700px; 
+    border-style: none;
+    padding: 100px;
+    align-items: center;
+    display: flex;
+    align-items:center;
+    position: relative;
+    left: 290px;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Nabla',;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New';
+    font-size: 48px;
+    font-weight: 100;
+    background-color:black;
+    border: solid 4px white;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+h2 {
+    background-color: darkblue;
+    font-family: 'Tahoma';
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    text-align: left;
+    border: solid transparent 10px;
+}
+
+.h2, h2 {
+    font-size: calc(1.325rem + .9vw);
+    color: white;
+    font-size: 40px;
+}
+
+body {
+    background-image: url(fondo.jpg);
+}
+
+p {
+    color:white;
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+}
+
+h6 {
+    color: white;
+    font-size: 20px;
+}
+
+#txt {
+    background-color: black;
+    font-size: 20px;
+}
+
+#nosotros {
+    padding: 20px;
+    background-color: black;
+    border: solid 10px cyan;
+    font-size: 29px;
+    text-align:center;
+}
+
+a {
+    color: white;
+}
+
+#idolos {
+    object-position: center;
+    right: auto;
+}
+
+li {
+    color: white;
+    font-size: 25px;
+}
+
+footer {
+    background-color: black;
+    background-image: url(fotopie.jpg);
+    
+}
+
+#piedepagina {
+    float:center;
+    border-style: none;
+    padding: 100px;
+    align-items: center;
+    display: flex;
+    align-items:center;
+    position: relative;
+    left: 290px;
+}
+
+#fin {
+    padding: 12px;
+    background-color:black;
+    border: solid 10px white;
+    font-size: 12px;
+    text-align:center;
+}
